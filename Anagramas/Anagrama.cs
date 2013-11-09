@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace Anagramas
 {
-    public class Class1
+    public class Anagrama
     {
+      public int Game()
+      {
+        return 0;
+      }
     }
 }
